@@ -1,4 +1,4 @@
-# Belly Button BioDiversity
+# Belly Button Biodiversity
 
 ### Challenge #12
 
